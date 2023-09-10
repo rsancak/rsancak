@@ -1,5 +1,5 @@
 💻 I have 3 years of Web Designer and 6 years of Front-End Developer experience.<br>
-🌎 You can visit my website for all my references. <a href="www.ridvansancak.com">ridvansancak.com</a><br>
+🌎 You can visit my website for all my references. ridvansancak.com
 📬 Contact me at ridvansancak@outlook.com<br>
 
 ### 🌐 Social
