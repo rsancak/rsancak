@@ -1,9 +1,4 @@
-💻 I have 3 years of Web Designer and 6 years of Front-End Developer experience.<br>
-🌎 You can visit my website for all my references. ridvansancak.com<br>
 📬 Contact me at ridvansancak@outlook.com<br>
-
-### 🌐 Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/ridvansancak) 
 
 ### 📂 Skills
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
